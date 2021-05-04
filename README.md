@@ -1,6 +1,5 @@
 # Important:
-This bot was made for entertainment purposes only.
-If you use this on Discord you could get API restricted.
+This bot was made for entertainment purposes only, if you use this on Discord you could get API restricted.
 
 # How to use:
 1. Configure config.json
