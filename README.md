@@ -3,6 +3,7 @@ This bot was made for entertainment purposes only, if you use this on Discord yo
 
 # Requirements:
 A PC
+
 NodeJS
 
 # How to use:
