@@ -4,6 +4,7 @@ const client = new Discord.Client();
 const config = require('./config.json');
 const prefix = config.prefix;
 
+// The bots status is "Maintenance mode. Commands wont work!" this is a fake status so people wont suspect the bot as a thread.
 client.on('ready', () => {
     client.user.setActivity("Maintenance mode. Commands wont work!")
     console.log(`Bot: ${client.user.tag}`)
