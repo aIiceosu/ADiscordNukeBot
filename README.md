@@ -2,9 +2,11 @@
 This bot was made for entertainment purposes only, if you use this on Discord you could get restricted.
 
 # Requirements:
-A PC
+a pc
 
-NodeJS
+nodejs
+
+discord.js modulue (already installed in git repository)
 
 # How to use:
 1. Configure config.json
