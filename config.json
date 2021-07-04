@@ -1,8 +1,7 @@
 {
-    "README": "The owner id is your discord id, the servername is the name the server should be renamed to on command, the icon is the icon it should be replaced to on command.",
-    "token": "YOURTOKENHERE",
-    "prefix": "YOURPREFIXHERE",
-    "ownerid": "YOURIDHERE",
-    "servername": "THESERVERNAMEHERE",
-    "icon": "THEICONURLHERE"
+    "token": "",
+    "prefix": "",
+    "ownerid": "",
+    "servername": "",
+    "iconurl": ""
 }
