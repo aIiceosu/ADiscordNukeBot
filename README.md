@@ -6,7 +6,7 @@ a pc
 
 nodejs
 
-discord.js modulue (already installed in git repository)
+discord.js module (already installed in git repository)
 
 # How to use:
 1. Configure config.json
