@@ -1,5 +1,5 @@
 # Important:
-This bot was made for testing purposes only, if you use this you could get restricted.
+> This bot was made for testing purposes only, if you use this you could get restricted.
 
 # Requirements:
 - nodejs
