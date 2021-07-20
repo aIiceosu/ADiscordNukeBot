@@ -3,6 +3,7 @@ This bot was made for testing purposes only, if you use this you could get restr
 
 # Requirements:
 nodejs
+
 discord.js module
 
 # How to use:
