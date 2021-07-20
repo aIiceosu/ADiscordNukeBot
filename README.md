@@ -1,13 +1,11 @@
 # Important:
-This bot was made for entertainment purposes only, if you use this on Discord you could get restricted.
+This bot was made for testing purposes only, if you use this you could get restricted.
 
 # Requirements:
-a pc
-
 nodejs
-
-discord.js module (already installed in git repository)
+discord.js module
 
 # How to use:
-1. Configure config.json
-2. Open a Terminal and run: node index.js
+1. Configure config.sample.json
+2. Rename config.sample.json to config.json
+3. Open any Terminal and run node index.js
